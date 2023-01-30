@@ -17,7 +17,11 @@
     margin: 0 auto;
   }
 
-  
+  .logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
   header {
     height: 65px;
     width: 100%;
