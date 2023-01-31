@@ -18,11 +18,16 @@
   }
 
   .logo {
-  width: 65px;
-  height: 65px;
-  margin-top: 0px;
+    width: 65px;
+    height: 65px;
+    margin-top: 0px;
   }
 
+ .headerlogo{
+    font-size: 45px;
+    float: left;
+    color: white;
+ }
   header {
     height: 65px;
     width: 100%;
