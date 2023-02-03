@@ -67,6 +67,6 @@
    main {
     height: auto;
     width: 100%;
-    top: 65px;
+    margin-top: 65px;
     background-color: silver;
   }
