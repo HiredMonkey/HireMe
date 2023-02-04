@@ -12,58 +12,58 @@ body {
 }
   
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
   
 .container {
-    width: 100%;
-    padding: 0 15px;
-    margin: 0 auto;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 .logo {
-    width: 65px;
-    height: 65px;
-    margin-top: 0px;
-    float: left;
+  width: 65px;
+  height: 65px;
+  margin-top: 0px;
+  float: left;
 }
 
 .headerlogo{
-    font-size: 45px;
-    float: left;
-    color: white;
+  font-size: 45px;
+  float: left;
+  color: white;
 }
 
 header {
-    height: 65px;
-    width: 100%;
-    background-color: rgba(34,49,52,0.9);
-    position :fixed;
-    top: 0;
-    z-index: 10;
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34,49,52,0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .header-left {
-    float: left;
+  float: left;
 }    
  
   
 .header-right {
-    float: right;
-    margin-right: -25px;
+  float: right;
+  margin-right: -25px;
 }
   
 .header-right a {
-    line-height: 65px;
-    padding: 0 25px;
-    color: white;
-    display: block;
-    float: left;
-    transition: all 0.5s;
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
 }
   
 .header-right a:hover {
-    background-color: rgba(255,255,255,0.3);
+  background-color: rgba(255,255,255,0.3);
 }
 
 .fa {
@@ -79,9 +79,9 @@ header {
 }
 
 main {
-    position: fixed;
-    height: 6000px;
-    width: 100%;
-    margin-top: 65px;
-    background-color: silver;
+  position: fixed;
+  height: 6000px;
+  width: 100%;
+  margin-top: 65px;
+  background-color: silver;
 }
