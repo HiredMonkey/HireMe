@@ -2,6 +2,23 @@
 box-sizing: border-box;
 }
 
+/* PC表示時 */
+p {
+　font-size: 30px
+}
+/* タブレット表示時 */
+@media (max-width: 960px) {
+　p {
+　　font-size: 25px
+　}
+}
+/* スマホ縦表示時 */
+@media (max-width: 480px) {
+　p {
+　　font-size: 20px
+　}
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
   
 body {
