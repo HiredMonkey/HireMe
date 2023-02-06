@@ -111,6 +111,11 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
+.header-right a:hover span {
+  -webkit-transform: rotateX(360deg);
+  transform: rotateX(360deg);
+}
+
 .lesson-wrapper {
   height: 580px;
   padding-bottom: 80px;
