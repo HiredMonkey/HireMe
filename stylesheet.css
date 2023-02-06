@@ -116,6 +116,11 @@ header {
   transform: rotateX(360deg);
 }
 
+.btn-social-long-twitter span {
+  display:inline-block;
+  transition: .5s;
+}
+
 .btn-social-long-twitter:hover span {
   -webkit-transform: rotateX(360deg);
   transform: rotateX(360deg);
