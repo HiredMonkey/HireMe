@@ -205,6 +205,10 @@ footer {
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
     font-size: 32px;
+    text-shadow:1px 1px 0 #FFF, -1px -1px 0 #FFF,
+              -1px 1px 0 #FFF, 1px -1px 0 #FFF,
+              0px 1px 0 #FFF,  0-1px 0 #FFF,
+              -1px 0 0 #FFF, 1px 0 0 #FFF;
   }
 
   .heading h2 {
