@@ -23,7 +23,6 @@ a {
   background-size: cover;
   color: red;
   text-align: center;
-  filter: blur(3px);
 }
 
 .top-wrapper h1 {
